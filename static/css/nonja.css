@@ -1,0 +1,53 @@
+body{
+    background: url("../images/timg.jpg");
+}
+.main{
+    width: 540px;
+    height: 820px;
+    margin: auto;
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.main h1{
+    width: 540px;
+    text-align: center;
+    line-height: 50px;
+    color: deeppink;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.main img{
+    width: 540px;
+    height: 720px;   
+}
+
+.main span{
+    width: 540px;
+    text-align: left;
+    line-height: 30px;
+    color: ivory;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main div{
+    width: 540px;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+.main button{
+    width: 100px;
+    height: 30px;
+    text-indent: 20px;
+    font-weight: bold;
+    padding-right: 20px;    
+    margin: 0 70px;
+}
+

@@ -9,9 +9,9 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 	
-@app.route("/1")
+@app.route("/Nonja")
 def index2():
-	return "长的好看就能随便看了啊！"
+	return render_template("Nonja.html")
 
 
 if __name__ == "__main__":
